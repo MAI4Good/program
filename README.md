@@ -10,7 +10,9 @@ The program will be developed around the use of Google CoLab notebooks for instr
 
 ## Classes
 
-Initially classes will concentrate on providing students with foundational lessons on Artificial Intelligence, Mathamatics, Python Programing, Algorithms and subjects like Generative AI and Large Language Models.
+Initially classes will concentrate on providing students with foundational lessons on **Artificial Intelligence**, **Mathamatics**, **Python Programing**, **Algorithms** and subjects like **Generative AI and Large Language Models**.
+
+Subject matter will be covered from a high-level for humanitarian actors under pressure to gain foundational knowledge and basic practical skills. Certificats of completion will be awarded based on engagement and feedback instead of exams. Students will be expected to study course materials, provide feedback, pose questions, assist others and establish for themselves code and notes to takeaway from the program.
 
 ## Partners
 
@@ -18,5 +20,6 @@ The program will rely on volunteers to help develop and improve course content a
 
 ## Get Involved
 
-To participate in the program as a student, volunteer or partner, contact program coordinators via team(at)humanitarianai.org
+The program will be accessible to new students on an academic quarter-by-quarter basis. The program is free to attend however students will be charged a small fee to cover resources and program coordination and to motivate participation.
 
+To participate in the program as a student, volunteer or partner, contact program coordinators via team(at)humanitarianai.org.
