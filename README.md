@@ -2,9 +2,9 @@
 
 # Master's in Artificial Intelligence for Good Program
 
-**MAI4Good** is an educational program launched by the **Humanitarian AI** meetup community linking local meetup groups in fifteen cities. Humanitarian AI meetup groups bring students, researchers, AI developers and staff from tech companies together to discuss applications of artificial intelligence with humanitarian actors and work on volunteer projects.
+**MAI4Good** is an educational program launched by the **Humanitarian AI** meetup community. The community links local meetup groups in fifteen cities, bringing together students, researchers, AI developers and tech companies together to discuss applications of artificial intelligence with humanitarian actors and work on volunteer projects.
 
-The MAI4Good **project** aims to establish a master's degree level **certificate program** tailored for staff from humanitarian organizations interested in becoming sufficently proficent in aspects of computer science and artificial intelligence to be able to work collaboratively with others on **AI for Good** initiatives.
+The MAI4Good **project** aims to establish a professional master's degree level certificate program in **artificial intelligence** tailored specifically for staff from humanitarian organizations seeking to becoming sufficiently proficient in aspects of computer science and artificial intelligence to be able to work collaboratively with others on AI for Good initiatives.
 
 ## Google CoLab Notebooks
 
