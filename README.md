@@ -6,7 +6,7 @@
 
 The MAI4Good **project** aims to establish a professional master's degree level certificate program in **artificial intelligence** tailored specifically for staff from humanitarian organizations seeking to becoming sufficiently proficient in aspects of computer science and artificial intelligence to be able to work collaboratively with others on AI for Good initiatives.
 
-The project was launched by former United Nations staff to address the need to **streamline**, **improve** and **reduce** the cost of educational resources accessible to humanitarian actors able to rapidly provide students new to computer science with a **technical grounding** in AI and a **basis** for understanding advancements being made in the field.
+The project was launched by former United Nations staff to address the need to **streamline**, **improve** and **reduce** the cost of educational resources accessible to humanitarian actors able to rapidly provide students new to computer science with a **technical grounding** in AI and a **basis** for understanding advancements being made in the field and applicational possibilities.
 
 ## Google CoLab Notebooks
 
