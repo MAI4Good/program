@@ -1,3 +1,5 @@
+![MAI4Good](https://github.com/MAI4Good/program/blob/main/media/MAI4G.png)
+
 # MAI4Good Program
 
 **MAI4Good** is an educational program launched by the **Humanitarian AI** meetup community linking local meetup groups in fifteen cities. Humanitarian AI meetup groups bring students, researchers, AI developers and staff from tech companies together to discuss applications of artificial intelligence with humanitarian actors and work on volunteer projects.
