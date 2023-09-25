@@ -10,7 +10,7 @@ The project was launched by former United Nations staff to address the need to *
 
 ## Google CoLab Notebooks
 
-As developed, the program will use **Google CoLab Notebooks** for pedagogical **instruction** and **student engagement**. Because students and volunteers alike can interact with one another through shared course notebooks, comment on content, pose and respond to questions and collaboratively make edits and additions to the notebooks, the program will be able to organically improve its courses, capture and integrate information of contectual importance to humanitarian actors and adapt courses to emerging thematics needing to be covered.
+As developed, the program will use **Google CoLab Notebooks** for pedagogical **instruction** and **student engagement**. Because students and volunteers alike can interact with one another through shared course notebooks, comment on content, pose and respond to questions and collaboratively make edits and additions to the notebooks, the program will be able to organically improve its courses, capture and integrate information of contextual importance to humanitarian actors and adapt courses to emerging thematics needing to be covered.
 
 The use of CoLab Notebooks will enable the program to engage students around AI through learning, experimentation, questioning and answering and the building and improvement of sharable resources rather than through conventional teaching, self-study and testing.
 
