@@ -1,10 +1,7 @@
 # MAI4Good Courses
 
-Course | Description | URL
-- - - | - - - | - - -
-Introduction | Introduction to AI | https
 
-Markdown | Less | Pretty
+Course | Description | URL
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*Introduction to AI* | An introduction to AI tailored for humanitarian actors | https
 1 | 2 | 3
