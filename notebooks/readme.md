@@ -10,6 +10,11 @@ Course | Description | URL
 *Python in Practice* | An introduction to Python programming from a practical perspective | http
 *Generative AI in Practice* | A look at simpligied generative AI powered application and how to set them up and adapt and test them | http
 
+**Additional Courses** : The program aims to develop three levels of core courses (01, 02, 03) and a host of stand alone electives.
+
+Course | Description | URL
+--- | --- | ---
+
 ## Course Abstracts
 
 ### Introduction to AI
