@@ -1,6 +1,6 @@
 # MAI4Good Courses
 
-The following courses are currently being developed. Notebooks under construction can be found at the following URLs:
+The following **courses** are currently being developed. Notebooks under construction can be found at the following URLs:
 
 Course | Description | URL
 --- | --- | ---
