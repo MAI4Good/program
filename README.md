@@ -28,4 +28,4 @@ The program will rely on volunteers and students to help develop and improve cou
 
 ## Get Involved
 
-To participate in the program as a student, volunteer or partner, contact program coordinators via team(at)humanitarianai.org.
+To participate in the program as a student, volunteer or partner, contact program coordinators via **team**(at)**humanitarianai.org**.
