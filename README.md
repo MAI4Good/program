@@ -1,4 +1,4 @@
-![MAI4Good](https://github.com/MAI4Good/program/blob/main/media/MAI4Goog_Banner.png)
+![MAI4Good](https://github.com/MAI4Good/program/blob/main/media/MAI4Good_colab.png)
 
 # Master's in Artificial Intelligence for Good Program
 
