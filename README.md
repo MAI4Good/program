@@ -16,7 +16,7 @@ The use of CoLab Notebooks will enable the program to engage students around AI 
 
 ## Classes
 
-While under development, the program will concentrate on generating courses to evaluate covering four main subjects: Artificial Intelligence and Machine Learning Basics, Math and Python Programing for AI, Algorithms and Generative AI.
+While under development, the program will concentrate on generating courses to evaluate covering four main subjects: Artificial Intelligence and Machine Learning Basics, Math and Python Programing, Algorithms and Generative AI.
 
 The program will undertake to tailor courses towards providing staff from humanitarian organizations with a minimum, sufficient level of understanding and practical skills needed to constructively participate in discussions on AI and take part in organization research and projects involving developing and testing applications of AI and large language models.
 
