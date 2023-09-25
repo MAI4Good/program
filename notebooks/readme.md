@@ -9,10 +9,12 @@ Course | Description | URL
 *Python in Practice* | An introduction to Python programming from a practical perspective | http
 *Generative AI in Practice* | A look at simpligied generative AI powered application and how to set them up and adapt and test them | http
 
-## Introduction to AI
+## Course Abstracts
+
+### Introduction to AI
 
 What do we mean when we talk about AI? Artificial intelligence is spoken about in broad generalistic terms amungst humanitarian actors and others. But how do AI developers view AI from a technical perspective?
 
-## Algorithms
+### Algorithms
 
 What's an algorithm, what does it look like, how does it work and where does it live?
