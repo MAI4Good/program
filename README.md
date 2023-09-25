@@ -16,16 +16,16 @@ The use of CoLab Notebooks will enable the program to engage students around AI 
 
 ## Classes
 
-Initially while courses are being developed and piloted, the program will concentrate on providing students with foundational lessons in **Artificial Intelligence**, **Mathamatics**, **Python Programing**, **Algorithms** and in subjects like **Generative AI and Large Language Models**.
+While under development, the program will concentrate on generating courses to evaluate covering four main subjects: Artificial Intelligence and Machine Learning Basics, Math and Python Programing for AI, Algorithms and Generative AI.
 
-Subject matter will be covered from a high-level for humanitarian actors under pressure to gain foundational knowledge and basic practical skills. Certificats of completion will be awarded based on engagement and feedback instead of exams. Students will be expected to study course materials, provide feedback, pose questions, assist others and establish for themselves code and notes to takeaway from the program.
+The program will undertake to tailor courses towards providing staff from humanitarian organizations with a minimum, sufficient level of understanding and practical skills needed to constructively participate in discussions on AI and take part in organization research and projects involving developing and testing applications of AI and large language models.
+
+The program will be accessible to new students on an academic quarter-by-quarter basis. The program is free to attend. However students will be charged a small monthly fee to cover digital resources and program coordination. Certification of course completion will be awarded to students based on participation and engagement. Students are thus expected to study course material, provide feedback, pose questions, assist others and contribute to improving the program's course notebooks.
 
 ## Partners
 
-The program will rely on volunteers to help develop and improve course content and insitutions to provide program-level input and assistance.
+The program will rely on volunteers and students to help develop and improve course content and on insitutions and tech companies to provide program-level input and assistance.
 
 ## Get Involved
-
-The program will be accessible to new students on an academic quarter-by-quarter basis. The program is free to attend however students will be charged a small fee to cover resources and program coordination and to motivate participation.
 
 To participate in the program as a student, volunteer or partner, contact program coordinators via team(at)humanitarianai.org.
