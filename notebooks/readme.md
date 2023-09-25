@@ -1,5 +1,5 @@
 # MAI4Good Courses
 
-| Course | Description | URL
+Course | Description | URL
 - - - | - - - | - - -
 Introduction | Introduction to AI | https
